@@ -22,15 +22,15 @@ Currently working as Software Engineer at UNIFOR.
 
 ### Current Stack
 
-Programming: Backend,Frontend Golang, Vue, Microservices, Microservices Architecture.
+Programming: Backend,Frontend, Java, JavaScript e PLSQL.
 Infra: Docker.
 Databases : Oracle.
 
 ### Have Worked with
-Programming: Frontend, Backend, Java, Kotlin, C#, NodeJS, Typescript, NestJS, React, Angular.
+Programming: Frontend, Backend, Java, JavaScript e PLSQL..
 Databases : MS SQL Server, Oracle, MySQL, PostGres.
 
 ### I’m currently learning ...
 
-Go, React, Solidity
+Go, Node, React, Solidity
 

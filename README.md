@@ -22,7 +22,7 @@ Currently working as Software Engineer at UNIFOR.
 
 ### Current Stack
 
-Programming: Backend,Frontend, Java, JavaScript e PLSQL.
+Programming: Backend,Frontend, Java, JavaScript e PLSQL...
 Infra: Docker.
 Databases : Oracle.
 

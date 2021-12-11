@@ -21,20 +21,22 @@ I'm a Software Engineer from Brazil Currently working as Software Engineer at UN
 
 ### Current Stack
 
-Programming: Backend,Frontend, Java, JavaScript e PLSQL.
-Infra: Docker.
-Databases : Oracle.
+- Programming: Backend, Frontend, Java, JavaScript e PLSQL.
+- Infra: Docker.
+- Databases : Oracle.
 
 ### Have Worked with
-Programming: Frontend, Backend, Java, JavaScript e PLSQL.
-Databases : MS SQL Server, Oracle, MySQL, PostGres.
+- Programming: Frontend, Backend, Java, JavaScript e PLSQL.
+- Databases : MS SQL Server, Oracle, MySQL, PostGres.
 
 ### I’m currently learning
 
 Go, Node, React, Solidity
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+### Where to find me:
+<b>
+<a href="https://www.linkedin.com/in/aragao-jean/">
+Linkedin
+ </a>
+  
+<br/>

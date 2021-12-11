@@ -21,8 +21,8 @@ I'm a Software Engineer from Brazil Currently working as Software Engineer at UN
 
 ### Current Stack
 
-Programming: Backend,Frontend, Java, JavaScript e PLSQL ...
-Infra: Docker ...
+Programming: Backend,Frontend, Java, JavaScript e PLSQL
+Infra: Docker
 Databases : Oracle.
 
 ### Have Worked with

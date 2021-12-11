@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### About me
+
+I'm a Software Engineer from Brazil
+Currently working as Software Engineer at UNIFOR.
+
+### Current Stack
+
+Programming: Backend,Frontend Golang, Vue, Microservices, Microservices Architecture.
+Infra: Docker.
+Databases : Oracle.
+
+### Have Worked with
+Programming: Frontend, Backend, Java, Kotlin, C#, NodeJS, Typescript, NestJS, React, Angular.
+Databases : MS SQL Server, Oracle, MySQL, PostGres.
+
+### I’m currently learning ...
+
+Go, React, Solidity
+

@@ -17,17 +17,16 @@ Here are some ideas to get you started:
 
 ### About me
 
-I'm a Software Engineer from Brazil
-Currently working as Software Engineer at UNIFOR.
+I'm a Software Engineer from Brazil Currently working as Software Engineer at UNIFOR.
 
 ### Current Stack
 
-Programming: Backend,Frontend, Java, JavaScript e PLSQL...
-Infra: Docker.
+Programming: Backend,Frontend, Java, JavaScript e PLSQL. ..
+Infra: Docker. ..
 Databases : Oracle.
 
 ### Have Worked with
-Programming: Frontend, Backend, Java, JavaScript e PLSQL..
+Programming: Frontend, Backend, Java, JavaScript e PLSQL. ..
 Databases : MS SQL Server, Oracle, MySQL, PostGres.
 
 ### I’m currently learning ...

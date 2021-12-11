@@ -1,4 +1,4 @@
-
+<!--
 
 **jeanflaragao/jeanflaragao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
+-->
 
 ### About me
 
@@ -21,8 +21,8 @@ I'm a Software Engineer from Brazil Currently working as Software Engineer at UN
 
 ### Current Stack
 
-Programming: Backend,Frontend, Java, JavaScript e PLSQL. ..
-Infra: Docker. ..
+Programming: Backend,Frontend, Java, JavaScript e PLSQL ...
+Infra: Docker ...
 Databases : Oracle.
 
 ### Have Worked with

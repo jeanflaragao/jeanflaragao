@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### About me
 
-I'm a Software Engineer from Brazil Currently working as Software Engineer at UNIFOR.
+I'm a Software Engineer from Brazil Currently working as Software Engineer at SOAP HEALTH and UNIFOR.
 
 ### Current Stack
 

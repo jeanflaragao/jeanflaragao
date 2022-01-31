@@ -21,7 +21,7 @@ I'm a Software Engineer from Brazil Currently working as Software Engineer at SO
 
 ### Current Stack
 
-- Programming: Backend, Frontend, Java, JavaScript e PLSQL.
+- Programming: Backend, Frontend, JavaScript, TypeScript, ReactJS, Java,  and PLSQL.
 - Infra: Docker.
 - Databases : Oracle.
 
